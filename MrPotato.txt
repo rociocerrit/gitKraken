@@ -2,4 +2,6 @@
 
 "pierna"
 
-"brazos"
+"nariz"
+
+"bigote"
